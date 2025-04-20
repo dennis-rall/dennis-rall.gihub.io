@@ -1,0 +1,3 @@
+import{i as p,ɵ as l,A as r,d as m,e as d,f as g,g as f,h as u,a as h,j as y,c as C,k as o,l as i,m as v}from"./index-BbF4Sw3y.js";function k(a,n){if(a&1&&(h(0,"article"),y(1,"img",0)(2,"analog-markdown",1),C()),a&2){const t=n;o(),i("src",t.attributes.coverImage,v),o(),i("content",t.content)}}const e=class e{constructor(){this.post$=p("slug")}};e.ɵfac=function(t){return new(t||e)},e.ɵcmp=l({type:e,selectors:[["app-blog-post"]],decls:2,vars:3,consts:[[1,"post__image",3,"src"],[3,"content"]],template:function(t,_){if(t&1&&(d(0,k,3,2,"article"),g(1,"async")),t&2){let s;f((s=u(1,1,_.post$))?0:-1,s)}},dependencies:[r,m],styles:[`.post__image[_ngcontent-%COMP%] {
+      max-height: 40vh;
+    }`]});let c=e;export{c as default};

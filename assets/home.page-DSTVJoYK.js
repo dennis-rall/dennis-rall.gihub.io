@@ -1,0 +1,1 @@
+import{ɵ as s,a as c,b as o,c as p}from"./index-BbF4Sw3y.js";const t=class t{};t.ɵfac=function(e){return new(e||t)},t.ɵcmp=s({type:t,selectors:[["ng-component"]],decls:2,vars:0,template:function(e,i){e&1&&(c(0,"p"),o(1,"home page works!!"),p())},encapsulation:2});let a=t;export{a as default};
